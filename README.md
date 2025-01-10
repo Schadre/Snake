@@ -24,11 +24,7 @@ Follow these steps to run the Snake Game on your machine:
    git clone https://github.com/Schadre/Snake.git
    ```
    Extract the ZIP file if downloaded.
-2. **Navigate to the project folder**:
-   ```bash
-   cd snake
-   ```
-3. **Run the game**:
+2. **Run the game**:
    ```bash
    python main_snake.py
    ```
