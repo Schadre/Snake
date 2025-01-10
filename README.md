@@ -21,7 +21,7 @@ Follow these steps to run the Snake Game on your machine:
 1. **Download the project**:
    - Clone this repository or download the ZIP file.
    ```bash
-   git clone https://github.com/Schadre/snake-game.git
+   git clone https://github.com/Schadre/Snake.git
    ```
    Extract the ZIP file if downloaded.
 2. **Navigate to the project folder**:
